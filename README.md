@@ -1,8 +1,6 @@
 # CPU Scheduling Algorithms
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/travis/yourusername/cpu-scheduling-algorithms/master.svg)](https://travis-ci.org/yourusername/cpu-scheduling-algorithms)
-[![Coverage Status](https://coveralls.io/repos/github/yourusername/cpu-scheduling-algorithms/badge.svg?branch=master)](https://coveralls.io/github/yourusername/cpu-scheduling-algorithms?branch=master)
 
 This project is a collection of implementations for various CPU scheduling algorithms commonly studied in Operating Systems. Whether you're a student, educator, or just a curious developer, you're in the right place.
 
@@ -86,4 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy Coding! 🚀
-```
